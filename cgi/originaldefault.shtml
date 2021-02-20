@@ -1,0 +1,29 @@
+<html>
+<head>
+<link rel=stylesheet href="style.css" type=text/css>
+</head>
+<body>
+<hr>
+<p>
+On the left, you see a variety of CGI scripts available from your directory.
+The output from these scripts gets sent to this frame.  Study the source code
+behind the HTML forms and the source code for the CGI scripts. 
+</p>
+<p>
+To complete this assignment, improve <tt>wxplot.cgi</tt> to accomplish the following:
+<ul>
+  <li> Plot more than one day of data (i.e., from a "start date" to an "end date") with the dates chosen by the user
+  <li> Overlay the time series for temperature at two specified stations
+  <li> Plot multiple variables from the same site on the same plot (e.g., temperature and dewpoint)
+</ul>
+Then clean up your page to make it somewhat attractive and useful. Be creative.
+These instructions are repeated in the comments within <tt>wxplot.cgi</tt>.
+</p>
+<hr>
+<p>
+Below is the output from <tt>userenv.cgi</tt>, executed through the use of
+an <tt>#include virtual</tt> statement directly within the HTML source.
+Look for <tt>REMOTE_ADDR</tt> and <tt>HTTP_USER_AGENT</tt> and notice how you compromise your privacy simply by accessing the server!
+<!--#include virtual="userenv.cgi"-->
+</body>
+</html>

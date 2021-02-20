@@ -1,0 +1,46 @@
+<html>
+<head>
+<!--
+ (                                                          )                                 
+ )\ )               )                    (      (   (    ( /(                                 
+(()/(     (      ( /( (         (        )\     )\  )\   )\())   (      )       )             
+ /(_))   ))\ (   )\()))(    (   )\ )  ((((_)(  ((_)((_) ((_)\   ))\    (     ( /(   (     (   
+(_))_   /((_))\ (_))/(()\   )\ (()/(   )\ _ )\  _   _    _((_) /((_)   )\  ' )(_))  )\ )  )\  
+ |   \ (_)) ((_)| |_  ((_) ((_) )(_))  (_)_\(_)| | | |  | || |(_))(  _((_)) ((_)_  _(_/( ((_) 
+ | |) |/ -_)(_-<|  _|| '_|/ _ \| || |   / _ \  | | | |  | __ || || || '  \()/ _` || ' \))(_-< 
+ |___/ \___|/__/ \__||_|  \___/ \_, |  /_/ \_\ |_| |_|  |_||_| \_,_||_|_|_| \__,_||_||_| /__/ 
+                                |__/                                                          
+-->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script> 
+  <script type="text/javascript" src="myjavascript.js"></script>
+</head>
+
+<body onload="initialize()">
+<center>
+<h2>
+<div style ="width:500px;height:70px;padding:10px;border:3px solid black;">
+Storm Reports for April 27, 2011
+</div>
+</h2>
+<h4 style="margin:-15px 0px 0px 0px">
+<!--nbsp is just adding non-breaking spaces!-->
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#FE0202">Tornado Reports</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#02CC35">Hail Reports</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#0000CC">Wind Reports</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
+</h4>
+<!--http://www.w3schools.com/bootstrap/bootstrap_buttons.asp-->
+<br/>
+<br/>
+
+<div class="container">
+  <button input onclick="cleartor();" type="button" class="btn btn-danger btn-lg" value="Remove Tornado Reports">Remove Tornado</button>&nbsp;&nbsp;
+  <button input onclick="clearhail();" type="button" class="btn btn-success btn-lg" value="Remove Hail Reports">Remove Hail</button>&nbsp;&nbsp;
+  <button input onclick="clearwind();" type="button" class="btn btn-primary btn-lg" value="Remove Wind Reports">Remove Wind</button>&nbsp;&nbsp;
+  <button input onclick="showOverlays();" type="button" class="btn btn-default btn-lg" value="Show All">Show All</button>
+</div> 
+
+<div id="map_canvas" style="width:95%; height:85%"></div>
+</center>
+</body>
+</html>

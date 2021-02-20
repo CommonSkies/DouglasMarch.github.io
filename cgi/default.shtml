@@ -1,0 +1,20 @@
+<html>
+<head>
+<link rel=stylesheet href="style.css" type=text/css>
+<title>CGI Mesonet</title>
+<h1> <u>CGI Mesonet site for ATMS</u> </h1>
+</head>
+<body style="margin: 0px;">
+
+<a href="https://www.mesonet.org/data/public/mesonet/maps/realtime/current.wx.gif" target="_parent">
+<img style="-webkit-user-select: none; cursor: pointer;" src="https://www.mesonet.org/data/public/mesonet/maps/realtime/current.wx.gif" alt="Current Weather" target="_blank" style="width="770" height="420">
+</a>
+
+<hr>
+
+<a href="https://www.mesonet.org/data/nids/maps/realtime/Oklahoma.MosaicBREF.png" target="_top">
+<img style="-webkit-user-select: none; cursor: pointer;" src="https://www.mesonet.org/data/nids/maps/realtime/Oklahoma.MosaicBREF.png" style=width="770" height="420" src="" >
+</a>
+
+</body>
+</html>

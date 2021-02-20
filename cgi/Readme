@@ -1,0 +1,4 @@
+Access testpylab.cgi directly from a Web browser.
+Access the other cgi scripts from index.html in a Web browser.
+Please change the "cgodfrey" in wxplot.cgi.
+See directions in wxplot.cgi.

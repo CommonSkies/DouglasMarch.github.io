@@ -1,0 +1,64 @@
+body {
+  background-color: #E5FFFF;
+  color: #000000;
+  font-family: Geneva, Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+p, b, em, ul, ol, td, hr {
+  color: #000000;
+  font-size: 14px;
+}
+
+hr{
+	height: 5px;
+	background-color: #1f387c
+}
+
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+
+tt {
+  font-weight: bold;
+  color: #990000;
+}
+
+pre {
+  font-weight: normal;
+  color: #990000;
+}
+
+table#cgi {
+  border-collapse: collapse;
+  text-align: center;
+  border: 1px #000000 solid;
+  width: 100%;
+}
+
+table#cgi td {
+  font-family: Verdana;
+  font-size: 14px;
+  border: solid #000000 1 px;
+  font-weight: bold;
+  padding: 5px;
+}
+
+.top {
+  background-color: #99CCCC;
+  font-weight: bold;
+  font-size: 10px;
+  color: #404040;
+}
+
+.left {
+  text-align: left;
+}
+
+.fill {
+  background-color: #FF4444;
+}
+
+  </style>

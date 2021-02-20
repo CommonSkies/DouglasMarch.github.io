@@ -1,0 +1,371 @@
+<html>
+<head>
+<link rel=stylesheet href="style.css" type=text/css>
+</head>
+<body>
+<table id="cgi" border="1">
+  <tr><td style="background-color: #FFEEEE">
+    <a href="default.shtml" target="cgioutput">Show default page</a> 
+  </td></tr>
+  <tr><td style="background-color: #FFEECC">
+    <a href="userenv.cgi" target="cgioutput">userenv.cgi</a><br>
+    <p>Even though you don't explicitly give information to the script,
+       the server still knows some information about your computer.
+    </p>
+  </td></tr>
+  <tr><td style="background-color: #FFFFBB">
+    <a href="userenv.cgi?a=2&b=3" target="cgioutput">userenv.cgi?a=2&b=3</a><br>
+    <p>The CGI script parses the parameters, which also appear in 
+      <tt style="font-weight:normal">QUERY_STRING</tt>
+    <p>
+  </td></tr>
+  <tr><td style="background-color: #EEFFEE">
+    <a href="userenv.cgi?sometext" target="cgioutput">userenv.cgi?sometext</a><br>
+    <p>The CGI script does NOT parse the parameter, but it appears in both 
+      <tt style="font-weight:normal">QUERY_STRING</tt> and 
+      <tt style="font-weight:normal">ARGV</tt>.
+    </p>
+  </td></tr>
+
+  <!--Use GET in a form-->
+  <tr><td style="background-color: #EEEEFF">
+    <form method="get" action="dataget.cgi" target="cgioutput">
+      <p>Here is an HTML form:</p>
+      <p>Select a station:
+        <select name="stid">
+          <option value="NRMN">NRMN
+          <option value="ADAX">ADAX
+          <option value="ALTU">ALTU
+        </select>
+      </p>
+
+      <p>Then click one of these buttons:</p>
+        <input type="submit" name="scale" value="Fahrenheit">
+        <input type="submit" name="scale" value="Celsius">
+    </form>
+  </td></tr>
+
+
+  <!--Make a plot from Oklahoma Mesonet data-->
+  <tr><td style="background-color: #F4DFFF">
+    <form method="get" action="wxplot.cgi" target="cgioutput">
+      <p>Draw a data plot:</p>
+      <p>Select a station:
+        <select name="stid">
+          <option value="ADAX">ADAX
+          <option value="ALTU">ALTU
+          <option value="ANTL">ANTL
+          <option value="ARNE">ARNE
+          <option value="BEAV">BEAV
+          <option value="BESS">BESS
+          <option value="BIXB">BIXB
+          <option value="BLAC">BLAC
+          <option value="BOIS">BOIS
+          <option value="BOWL">BOWL
+          <option value="BREC">BREC
+          <option value="BRIS">BRIS
+          <option value="BUFF">BUFF
+          <option value="BURB">BURB
+          <option value="BURN">BURN
+          <option value="BUTL">BUTL
+          <option value="BYAR">BYAR
+          <option value="CALV">CALV
+          <option value="CAMA">CAMA
+          <option value="CENT">CENT
+          <option value="CHAN">CHAN
+          <option value="CHER">CHER
+          <option value="CHEY">CHEY
+          <option value="CHIC">CHIC
+          <option value="CLAY">CLAY
+          <option value="CLOU">CLOU
+          <option value="COOK">COOK
+          <option value="COPA">COPA
+          <option value="DURA">DURA
+          <option value="ELRE">ELRE
+          <option value="ERIC">ERIC
+          <option value="EUFA">EUFA
+          <option value="FAIR">FAIR
+          <option value="FORA">FORA
+          <option value="FREE">FREE
+          <option value="FTCB">FTCB
+          <option value="GOOD">GOOD
+          <option value="GUTH">GUTH
+          <option value="HASK">HASK
+          <option value="HINT">HINT
+          <option value="HOBA">HOBA
+          <option value="HOLL">HOLL
+          <option value="HOOK">HOOK
+          <option value="HUGO">HUGO
+          <option value="IDAB">IDAB
+          <option value="JAYX">JAYX
+          <option value="KENT">KENT
+          <option value="KETC">KETC
+          <option value="KING">KING
+          <option value="LAHO">LAHO
+          <option value="LANE">LANE
+          <option value="MADI">MADI
+          <option value="MANG">MANG
+          <option value="MARE">MARE
+          <option value="MAYR">MAYR
+          <option value="MCAL">MCAL
+          <option value="MEDF">MEDF
+          <option value="MEDI">MEDI
+          <option value="MIAM">MIAM
+          <option value="MINC">MINC
+          <option value="MTHE">MTHE
+          <option value="NEWK">NEWK
+          <option value="NOWA">NOWA
+          <option value="OILT">OILT
+          <option value="OKEM">OKEM
+          <option value="OKMU">OKMU
+          <option value="PAUL">PAUL
+          <option value="PAWN">PAWN
+          <option value="PERK">PERK
+          <option value="PRYO">PRYO
+          <option value="PUTN">PUTN
+          <option value="REDR">REDR
+          <option value="RETR">RETR
+          <option value="RING">RING
+          <option value="SALL">SALL
+          <option value="SEIL">SEIL
+          <option value="SHAW">SHAW
+          <option value="SKIA">SKIA
+          <option value="SLAP">SLAP
+          <option value="SPEN">SPEN
+          <option value="STIG">STIG
+          <option value="STIL">STIL
+          <option value="STUA">STUA
+          <option value="SULP">SULP
+          <option value="TAHL">TAHL
+          <option value="TALI">TALI
+          <option value="TIPT">TIPT
+          <option value="TISH">TISH
+          <option value="VINI">VINI
+          <option value="WALT">WALT
+          <option value="WASH">WASH
+          <option value="WATO">WATO
+          <option value="WAUR">WAUR
+          <option value="WEAT">WEAT
+          <option value="WEBB">WEBB
+          <option value="WEST">WEST
+          <option value="WILB">WILB
+          <option value="WIST">WIST
+          <option value="WOOD">WOOD
+          <option value="WYNO">WYNO
+          <option value="NINN">NINN
+          <option value="ACME">ACME
+          <option value="APAC">APAC
+          <option value="HECT">HECT
+          <option value="VANO">VANO
+          <option value="ALV2">ALV2
+          <option value="GRA2">GRA2
+          <option value="PORT">PORT
+          <option value="INOL">INOL
+          <option selected value="NRMN">NRMN
+          <option value="CLRM">CLRM
+          <option value="NEWP">NEWP
+          <option value="BROK">BROK
+          <option value="MRSH">MRSH
+          <option value="ARD2">ARD2
+          <option value="FITT">FITT
+          <option value="FITT">FITT
+          <option value="OKCN">OKCN
+          <option value="OKCW">OKCW
+          <option value="OKCE">OKCE
+          <option value="CARL">CARL
+          <option value="WEBR">WEBR
+          <option value="KIN2">KIN2
+        </select>
+      </p>
+	  <p>Select a second station (optional):
+        <select name="stid2">
+		  <option selected value="----">----
+		  <option value="ADAX">ADAX
+          <option value="ALTU">ALTU
+          <option value="ANTL">ANTL
+          <option value="ARNE">ARNE
+          <option value="BEAV">BEAV
+          <option value="BESS">BESS
+          <option value="BIXB">BIXB
+          <option value="BLAC">BLAC
+          <option value="BOIS">BOIS
+          <option value="BOWL">BOWL
+          <option value="BREC">BREC
+          <option value="BRIS">BRIS
+          <option value="BUFF">BUFF
+          <option value="BURB">BURB
+          <option value="BURN">BURN
+          <option value="BUTL">BUTL
+          <option value="BYAR">BYAR
+          <option value="CALV">CALV
+          <option value="CAMA">CAMA
+          <option value="CENT">CENT
+          <option value="CHAN">CHAN
+          <option value="CHER">CHER
+          <option value="CHEY">CHEY
+          <option value="CHIC">CHIC
+          <option value="CLAY">CLAY
+          <option value="CLOU">CLOU
+          <option value="COOK">COOK
+          <option value="COPA">COPA
+          <option value="DURA">DURA
+          <option value="ELRE">ELRE
+          <option value="ERIC">ERIC
+          <option value="EUFA">EUFA
+          <option value="FAIR">FAIR
+          <option value="FORA">FORA
+          <option value="FREE">FREE
+          <option value="FTCB">FTCB
+          <option value="GOOD">GOOD
+          <option value="GUTH">GUTH
+          <option value="HASK">HASK
+          <option value="HINT">HINT
+          <option value="HOBA">HOBA
+          <option value="HOLL">HOLL
+          <option value="HOOK">HOOK
+          <option value="HUGO">HUGO
+          <option value="IDAB">IDAB
+          <option value="JAYX">JAYX
+          <option value="KENT">KENT
+          <option value="KETC">KETC
+          <option value="KING">KING
+          <option value="LAHO">LAHO
+          <option value="LANE">LANE
+          <option value="MADI">MADI
+          <option value="MANG">MANG
+          <option value="MARE">MARE
+          <option value="MAYR">MAYR
+          <option value="MCAL">MCAL
+          <option value="MEDF">MEDF
+          <option value="MEDI">MEDI
+          <option value="MIAM">MIAM
+          <option value="MINC">MINC
+          <option value="MTHE">MTHE
+          <option value="NEWK">NEWK
+          <option value="NOWA">NOWA
+          <option value="OILT">OILT
+          <option value="OKEM">OKEM
+          <option value="OKMU">OKMU
+          <option value="PAUL">PAUL
+          <option value="PAWN">PAWN
+          <option value="PERK">PERK
+          <option value="PRYO">PRYO
+          <option value="PUTN">PUTN
+          <option value="REDR">REDR
+          <option value="RETR">RETR
+          <option value="RING">RING
+          <option value="SALL">SALL
+          <option value="SEIL">SEIL
+          <option value="SHAW">SHAW
+          <option value="SKIA">SKIA
+          <option value="SLAP">SLAP
+          <option value="SPEN">SPEN
+          <option value="STIG">STIG
+          <option value="STIL">STIL
+          <option value="STUA">STUA
+          <option value="SULP">SULP
+          <option value="TAHL">TAHL
+          <option value="TALI">TALI
+          <option value="TIPT">TIPT
+          <option value="TISH">TISH
+          <option value="VINI">VINI
+          <option value="WALT">WALT
+          <option value="WASH">WASH
+          <option value="WATO">WATO
+          <option value="WAUR">WAUR
+          <option value="WEAT">WEAT
+          <option value="WEBB">WEBB
+          <option value="WEST">WEST
+          <option value="WILB">WILB
+          <option value="WIST">WIST
+          <option value="WOOD">WOOD
+          <option value="WYNO">WYNO
+          <option value="NINN">NINN
+          <option value="ACME">ACME
+          <option value="APAC">APAC
+          <option value="HECT">HECT
+          <option value="VANO">VANO
+          <option value="ALV2">ALV2
+          <option value="GRA2">GRA2
+          <option value="PORT">PORT
+          <option value="INOL">INOL
+          <option value="NRMN">NRMN
+          <option value="CLRM">CLRM
+          <option value="NEWP">NEWP
+          <option value="BROK">BROK
+          <option value="MRSH">MRSH
+          <option value="ARD2">ARD2
+          <option value="FITT">FITT
+          <option value="FITT">FITT
+          <option value="OKCN">OKCN
+          <option value="OKCW">OKCW
+          <option value="OKCE">OKCE
+          <option value="CARL">CARL
+          <option value="WEBR">WEBR
+          <option value="KIN2">KIN2
+        </select>
+      </p>
+<!--<p> Enter a date (YYYYMMDD):-->
+	<!--<input type="text" name="thedate" value="20090324" SIZE=8>-->
+<!--</p>-->
+      <p> Enter a start date (YYYYMMDD):
+        <input type="text" name="startdate" value="20090324" SIZE=8>
+      </p>
+      <p> Enter an end date (YYYYMMDD):
+        <input type="text" name="enddate" value="20090325" SIZE=8>
+      </p>
+      <p>Click one of these buttons to make a plot:</p>
+      <input type="submit" name="scale" value="Fahrenheit">
+      <input type="submit" name="scale" value="Celsius">
+    </form>
+<!--<p>You will modify this script for your assignment.</p>-->
+  </td></tr>
+
+
+<!--
+  <!--Other cool things to put in forms-->
+  <tr><td style="background-color: #FFEEEE">
+    <p>Other options for forms:</p>
+    <form method="get" action="echo.cgi" target="cgioutput">
+      <p>Select something:
+        <select name="choices">
+          <option value="Elephant">Elephant
+          <option value="Cow">Cow
+          <option value="Frog">Frog
+        </select>
+      </p>
+      <p>Hey, check it out: <input type="checkbox" name="pickme" checked></p>
+      <p>Radio buttons are:<bt>
+	    <center>
+        <table>
+          <tr><td>
+            <input type="radio" checked name="pickone" value="cool">cool
+          </td></tr>
+          <tr><td>
+            <input type="radio" name="pickone" value="so last week">so last week
+          </td></tr>
+          <tr><td>
+            <input type="radio" name="pickone" value="undecided">undecided
+          </td></tr>
+        </table>
+	    </center>
+      </p>
+      <p>Enter text:<br>
+        <textarea name="sometext" rows=5 cols=20>
+Huggies=34
+Pampers=45
+Luvs=36
+        </textarea>
+      </p>
+      <input type="text" name="moretext" value="\frac{\partial p }{\partial z}=-\rho g" SIZE=40><br> 
+      <input type="hidden" name="hiddenvalue" value="secret"><br>
+      <input type=reset value="Restore Defaults">
+      <p>Submit your choices:
+        <input type="submit" name="whatever" value="Make it happen">
+      </p>
+    </form>
+    <p>This script only processes the parameters.</p>
+  </td></tr>--->
+</table>
+</body>
+</html>

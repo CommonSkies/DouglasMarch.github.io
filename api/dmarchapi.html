@@ -1,0 +1,55 @@
+<html>
+<head>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script> 
+	<script type="text/javascript" src="myjavascript.js"></script>
+	<link rel="stylesheet" type="text/css" href="format.css">
+</head>
+
+<body onload="initialize()">
+
+<center>
+
+<h2>
+	<div style ="width:500px;height:90px;padding:10px;border:3px solid black;">
+		Tornadoes in America
+	</br>1950-2015
+	</div>
+</h2>
+
+<h4 style="margin:-15px 0px 0px 0px">
+<!--nbsp is just adding non-breaking spaces!-->
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#FE0202">Tornado Reports</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#02CC35">Hail Reports</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#0000CC">Wind Reports</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
+</h4>
+
+<!--http://www.w3schools.com/bootstrap/bootstrap_buttons.asp-->
+
+<br/>
+<br/>
+<div class="container">
+  
+
+  <button input onclick="EF0();" type="button" class="button0" value="EF0">EF0</button>&nbsp;&nbsp;
+  
+  <button input onclick="EF1();" type="button" class="button1" value="EF1">EF1</button>&nbsp;&nbsp;
+
+  <button input onclick="EF2();" type="button" class="button2" value="EF2">EF2</button>&nbsp;&nbsp;
+
+  <button input onclick="EF3();" type="button" class="button3" value="EF3">EF3</button>&nbsp;&nbsp;
+
+  <button input onclick="EF4();" type="button" class="button4" value="EF4">EF4</button>&nbsp;&nbsp;
+
+  <button input onclick="EF5();" type="button" class="button5" value="EF5">EF5</button>&nbsp;&nbsp;
+
+  <button input onclick="showOverlays();" type="button" class="btn btn-default btn-lg" value="Show All">Show All</button>
+</div> 
+</br>
+</br>
+<div id="map_canvas" style="width:95%; height:85%"></div>
+
+</center>
+</body>
+</html>
+

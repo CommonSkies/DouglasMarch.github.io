@@ -1,0 +1,168 @@
+body{
+    background-color: #ededed;
+}
+h2{
+	backgroun-dcolor: white;
+}
+
+.button {
+  display: inline-block;
+  padding: 8px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #ffffff;
+  border: 4px black;
+  border-radius: 12px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #cccccc}
+
+.button:active {
+  background-color: #e5e5e5;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.button0 {
+  display: inline-block;
+  padding: 8px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #621ea0;
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 9px #999;
+}
+
+.button0:hover {background-color: #551a8b}
+
+.button0:active {
+  background-color: #481676;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.button1 {
+  display: inline-block;
+  padding: 8px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #0000e6;
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 9px #999;
+}
+
+.button1:hover {background-color: #0000cc}
+
+.button1:active {
+  background-color: #0000b3;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.button2 {
+  display: inline-block;
+  padding: 8px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #00b200;
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 9px #999;
+}
+
+.button2:hover {background-color: #009900}
+
+.button2:active {
+  background-color: #007f00;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.button3 {
+  display: inline-block;
+  padding: 8px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #e6e600;
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 9px #999;
+}
+
+.button3:hover {background-color: #cccc00}
+
+.button3:active {
+  background-color: #b3b300;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.button4 {
+  display: inline-block;
+  padding: 8px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #ffb732;
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 9px #999;
+}
+
+.button4:hover {background-color: #ffae19}
+
+.button4:active {
+  background-color: #ffa500;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.button5 {
+  display: inline-block;
+  padding: 8px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #e60000;
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 9px #999;
+}
+
+.button5:hover {background-color: #cc0000}
+
+.button5:active {
+  background-color: #b30000;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
