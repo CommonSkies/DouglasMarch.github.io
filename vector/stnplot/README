@@ -1,0 +1,21 @@
+The text information in world_us_country.mapdata is not trivial to read and use
+in a Python program.  Here, you can convert the data file into much simpler
+Python objects within a single dictionary.  Then pickle the dictionary using
+cPickle.  You can load the dictionaries and use them instantly in Python 
+programs.
+
+To begin with this task, first pickle the map data with:
+blizzard> ./picklemap.py world_us_country.mapdata
+
+Next, make a plot in the file map.eps using:
+blizzard> ./stnplot.py
+
+View the map with:
+blizzard> gv map.eps &
+
+Convert the map to a raster image and view it with:
+blizzard> convert +antialias map.eps map.png
+blizzard> eog map.png &
+
+See the comments within and at the end of stnplot.py to complete
+your assignment.

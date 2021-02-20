@@ -1,0 +1,45 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 85 0 475 400
+/inch {72 mul} def	% Define a conversion for inches to points (1/72 inch)
+/Helvetica findfont 30 scalefont setfont % Use 30 pt Helvetica font
+newpath			% Start a new path
+2.9273 inch 5.0266 inch moveto	% Start 2.9273 inches in from the lower left and 5.0266 inches up
+4.284 inch 3.9038 inch lineto	% Draw a line (x, then y)
+5.9513 inch 4.3458 inch lineto	% Draw another line
+5.2879 inch 2.7536 inch lineto	% Draw another line
+6.2235 inch 1.3045 inch lineto	% Draw another line
+4.5043 inch 1.4434 inch lineto	% Draw another line
+3.4152 inch 0.1058 inch lineto	% Draw another line
+3.0160 inch 1.7838 inch lineto	% Draw another line
+1.4074 inch 2.4062 inch lineto	% Draw another line
+2.8799 inch 3.3044 inch lineto	% Draw another line
+5 setlinewidth 	% Use a 5-pt wide line
+closepath		% Automatically close the path
+gsave			% Save the above path, for reuse later
+1.0 .893 0 setrgbcolor	% Change the color to gold
+fill			% Fill in the star 
+grestore		% Restore the previous path to reuse it
+0.9 8 0 setrgbcolor	% Change the color to red
+stroke			% Nothing is drawn until you stroke the path!
+%
+4.284 inch 3.9038 inch moveto % Move to a new point to start a new object
+.5 .2 0 setrgbcolor	% Change the color to brown
+4.6 inch 4.6 inch lineto %Draw a line
+10 setlinewidth 	% Use a 10-pt wide line
+stroke			% Stroke the path
+%
+4.284 inch 3.9038 inch moveto % Move to a new point to start a new object
+4.0 inch 4.6 inch 4.3 inch 4.9 inch 3.0 inch 5.4 inch curveto % Add a Bezuir curve (x1,y1,x2m,y2,x3,y3)	
+4.1 inch 4.7 inch 4.7 inch 4.3 inch 4.284 inch 3.9038 inch curveto % Add a Bezuir curve (x1,y1,x2m,y2,x3,y3)	
+gsave			% Save the above path, for later reuse	
+0 .4 0 setrgbcolor	% Change the color to dark green
+fill			% Fill in the star 
+grestore		% restore the previous path, to reuse it
+0 .7 0 setrgbcolor	% Change the color to light green
+4.0 setlinewidth 	% Use a 2-pt wide line
+stroke			% Stroke the path
+%
+2.3 inch 2.5 inch moveto
+-10 rotate
+0.58 0 0.83 setrgbcolor % Change the color to purple
+(Golden Delicious) show

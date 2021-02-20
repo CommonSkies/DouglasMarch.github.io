@@ -1,0 +1,333 @@
+ICAO    STATION NAME           STATE                  LOCATION        ELEV (m)    DATE/TIME (UTC)  TEMP (F)   TDEW (F)    RH (%)  WSPD (kts) WDIR (deg)  VIS (m)   PRES (mb)     CLOUD             PRESENT WX
+K3A1    Cullman/Folsom F       US: Alabama            34.27N  86.85W       290     2/11/2009 19:00      62.6       60.8        94          15        220        7      1008.1     OVC      Light Rain
+K4A9    Ft Payne/Isbell        US: Alabama            34.47N  85.72W       270     2/11/2009 19:00      62.6       60.8        94           7        200        4      1007.8     OVC      Rain
+K79J    Andalusia/Opp Ar       US: Alabama            31.32N  86.40W        94     2/11/2009 18:56      70.9       65.7        84          10        180       10      1014.6     OVC
+KALX    Alexander/Russel       US: Alabama            32.92N  85.80W       210     2/11/2009 19:00      68.0       66.2        94           9        190       10      1012.2     BKN      Light Rain
+KANB    Anniston               US: Alabama            33.58N  85.85W       180     2/11/2009 18:53      66.9       59.0        76          15        180       10      1010.5     OVC
+KAUO    Auburn Opelika A       US: Alabama            32.62N  85.42W       240     2/11/2009 18:55      68.0       57.2        68          19        180       10      1013.5     OVC
+KBFM    Mobile/Brookely        US: Alabama            30.62N  88.07W        20     2/11/2009 18:53      73.0       66.0        79          11        210       10      1015.6     OVC
+KBHM    Birmingham             US: Alabama            33.57N  86.75W       200     2/11/2009 18:53      70.0       62.1        76          24        200        9      1008.8     BKN      Light Rain
+KDCU    Decatur                US: Alabama            34.65N  86.95W       180     2/11/2009 18:53      62.1       50.0        65          28        260       10      1007.5     OVC
+KDHN    Dothan                 US: Alabama            31.32N  85.45W       110     2/11/2009 18:53      75.9       62.1        62          18        190       10      1017.3     OVC
+KEET    Alabaster              US: Alabama            33.18N  86.78W       170     2/11/2009 18:53      70.0       64.0        81          19        190       10      1010.2     OVC
+KGAD    Gadsden Muni           US: Alabama            33.97N  86.07W       170     2/11/2009 18:55    -999.0     -999.0      -999          12        160        9      1008.5     BKN
+KGZH    Evergreen              US: Alabama            31.42N  87.05W        78     2/11/2009 18:53      71.1       68.0        90          11        200       10      1014.6     BKN      Thunderstorm In Vicinity
+KHSV    Huntsville             US: Alabama            34.65N  86.78W       190     2/11/2009 18:53      62.1       57.9        86          22        260        4      1006.8     OVC      Light Rain, Mist
+KHUA    Redstone Arsenal       US: Alabama            34.68N  86.68W       210     2/11/2009 18:55      60.8       59.0        94          15        240        7      1005.8     BKN
+KMDQ    Huntsville/Madis       US: Alabama            34.87N  86.55W       230     2/11/2009 19:00      60.8       59.0        94          27        250        1      1006.4     OVC      Light Rain
+KMGM    Montgomery             US: Alabama            32.30N  86.40W        63     2/11/2009 18:53      73.0       64.0        73          16        190       10      1012.9     OVC
+KMOB    Mobile/Bates           US: Alabama            30.68N  88.25W        63     2/11/2009 18:56      73.0       66.0        79          12        230       10      1015.2     BKN
+KMSL    Muscle Shoal           US: Alabama            34.75N  87.60W       160     2/11/2009 18:53      64.0       39.9        41          32        260       10      1008.5     CLR
+KMXF    Maxwell Afb/Mgm        US: Alabama            32.37N  86.37W        51     2/11/2009 18:55      70.9       66.0        85          12        180       10      1012.5     BKN
+KOZR    Ozark/Cairns Aaf       US: Alabama            31.28N  85.72W        93     2/11/2009 18:55      70.2       64.9        84          17        170        7      1015.9     OVC
+KTCL    Tuscaloosa             US: Alabama            33.22N  87.62W        49     2/11/2009 18:53      71.1       62.1        73          15        250       10      1010.2     OVC
+KTOI    Troy                   US: Alabama            31.85N  86.02W       120     2/11/2009 18:53      69.1       62.1        78          14        180       10      1014.6     OVC
+KDOV    Dover Afb              US: Delaware           39.12N  75.47W         9     2/11/2009 18:55      69.1       50.5        52          21        220       10      1009.8     CLR
+KGED    Georgetown             US: Delaware           38.68N  75.37W        19     2/11/2009 18:54      66.9       50.0        55          15        220       10      1011.2     CLR
+KILG    Wilmington             US: Delaware           39.67N  75.60W        28     2/11/2009 18:51      66.9       48.0        51          16        200       10      1009.5     CLR
+K40J    Perry Foley            US: Florida            30.07N  83.57W        13     2/11/2009 18:53      73.0       62.1        69          16        190     -999      1020.0     CLR
+KAAF    Apalachicola           US: Florida            29.73N  85.03W         5     2/11/2009 18:53      68.0       63.0        84           7        190        7      1020.0     BKN
+KBOW    Bartow Municipal       US: Florida            27.93N  81.77W        39     2/11/2009 18:50      80.6       59.0        48           8        170       12      1021.7     BKN
+KCEW    Crestview              US: Florida            30.77N  86.52W        55     2/11/2009 18:53      71.1       66.9        87          16        190        7      1016.3     OVC
+KCOF    Patrick Afb/Coco       US: Florida            28.22N  80.58W         3     2/11/2009 18:55      75.2       66.2        74          14        160        7      1021.7     BKN
+KCRG    Jacksonvil/Craig       US: Florida            30.33N  81.52W        13     2/11/2009 18:53      79.0       54.0        42          12        220       10      1020.7     SCT
+KCTY    Cross City             US: Florida            29.55N  83.10W        12     2/11/2009 18:53      77.0       61.0        58          16        200     -999      1020.7     CLR
+KDAB    Daytona Beach          US: Florida            29.18N  81.07W         9     2/11/2009 18:53      82.0       59.0        46          12        200       10      1021.7     FEW
+KDTS    Destin                 US: Florida            30.40N  86.47W         5     2/11/2009 18:53      69.1       64.0        84           9        160        6      1016.3     OVC      Haze
+KEVB    New Smyrna Beach       US: Florida            29.05N  80.95W         3     2/11/2009 18:50      82.4       59.0        45          12        200       10      1021.0     FEW
+KEYW    Key West               US: Florida            24.55N  81.75W         5     2/11/2009 18:53      77.0       68.0        74          12        120       10      1021.3     CLR
+KGIF    Winter Haven           US: Florida            28.07N  81.75W        43     2/11/2009 18:53      82.9       59.0        44          11        170       10      1021.7     SCT
+KGNV    Gainesville            US: Florida            29.70N  82.28W        45     2/11/2009 18:53      79.0       54.0        42           9        210       10      1020.7     BKN
+KHRT    Hurlburt Field         US: Florida            30.42N  86.67W        12     2/11/2009 18:49      69.8       66.2        88          16        170        5      1016.3     OVC      Mist
+KHST    Homestead Afb          US: Florida            25.47N  80.37W         2     2/11/2009 18:55      77.0       64.2        65           9        130       10      1023.0     FEW
+KISM    Kissimmee/Orland       US: Florida            28.28N  81.43W        25     2/11/2009 18:50      80.6       60.8        51          10        200       10      1022.0     BKN
+KJAX    Jacksonville           US: Florida            30.50N  81.68W        10     2/11/2009 18:56      80.1       54.0        41          12        200       10      1020.0     OVC
+KMAI    Marianna               US: Florida            30.83N  85.18W        32     2/11/2009 18:53      72.0       62.1        71          18        180       10      1017.6     OVC
+KMCF    Macdill Afb/Tamp       US: Florida            27.85N  82.52W         4     2/11/2009 18:55      73.6       64.6        74          17        210       10      1021.7     BKN
+KMCO    Orlando                US: Florida            28.42N  81.33W        29     2/11/2009 18:53      82.0       59.0        46          13        190       10      1021.3     BKN
+KMLB    Melbourne              US: Florida            28.10N  80.65W        11     2/11/2009 18:53      77.0       63.0        62          14        140       10      1021.7     BKN
+KNIP    Jacksonville Nas       US: Florida            30.22N  81.67W         7     2/11/2009 18:53      79.0       55.0        44          12        190       10      1020.7     BKN
+KNPA    Pensacola Nas          US: Florida            30.35N  87.32W         9     2/11/2009 18:56      69.1       66.0        90          12        190        3      1015.6     OVC      Light Rain, Mist
+KNQX    Key West Nas           US: Florida            24.57N  81.67W         2     2/11/2009 18:53      80.1       69.1        69          12        130       10      1021.3     FEW
+KNRB    Mayport Nas            US: Florida            30.38N  81.42W         5     2/11/2009 18:52      75.0       55.9        52           8        150       10      1021.0     BKN
+KOCF    Ocala Muni             US: Florida            29.17N  82.22W        27     2/11/2009 18:55      80.6       57.2        45          13        230       10      1021.0     FEW
+KOMN    Ormand Beach Vor       US: Florida            29.30N  81.12W         9     2/11/2009 18:50      82.4       59.0        45          10        220       10      1021.3     SCT
+KPBI    West Palm Beach        US: Florida            26.68N  80.10W         6     2/11/2009 18:53      80.1       62.1        54          17        150       10      1022.7     SCT
+KPFN    Panama City            US: Florida            30.20N  85.68W        12     2/11/2009 18:53      70.0       64.9        84          10        180        9      1017.9     OVC
+KPNS    Pensacola              US: Florida            30.48N  87.18W        38     2/11/2009 18:53      68.0       66.0        93          18        190        6      1015.9     OVC      Mist
+KSFB    Sanford/Orlando        US: Florida            28.77N  81.22W        17     2/11/2009 18:53      82.9       57.9        43          12        210       10      1021.0     CLR
+KSGJ    St Augustine           US: Florida            29.97N  81.32W         3     2/11/2009 18:50      78.8       57.2        48           8        220       10      1021.3     SCT
+KSUA    Stuart/Witham          US: Florida            27.18N  80.22W         6     2/11/2009 18:50      80.6       64.4        58           9        170       10      1022.7     BKN
+KTLH    Tallahassee            US: Florida            30.40N  84.35W        19     2/11/2009 18:53      72.0       61.0        68          14        200       10      1020.0     OVC
+KTPA    Tampa                  US: Florida            27.97N  82.53W        11     2/11/2009 18:53      79.0       61.0        54          11        200       10      1022.0     BKN
+KTTS    Nasa Shuttle Fcl       US: Florida            28.62N  80.72W         3     2/11/2009 18:55      80.6       64.4        58          14        160       10      1021.7     BKN
+KVDF    Tampa/Vandenburg       US: Florida            28.02N  82.35W         7     2/11/2009 19:20      84.2       62.6        48          13        220       10      1021.7     CLR
+KVPS    Eglin Afb/Valpar       US: Florida            30.47N  86.52W        26     2/11/2009 18:55      69.1       65.7        89          18        180        4      1016.6     OVC      Mist
+KVQQ    Jacksonvil/Cecil       US: Florida            30.22N  81.88W        25     2/11/2009 18:50      77.0       59.0        54          10        180       10      1020.7     BKN
+KVVG    The Villages           US: Florida            28.95N  81.85W        27     2/11/2009 19:25      82.4       59.0        45           9        200     -999      1021.0     CLR
+K3J7    Greensboro             US: Georgia            33.60N  83.13W       210     2/11/2009 19:00      73.4       55.4        53           9        180       10      1014.2     BKN
+K47A    Canton/Cherokee        US: Georgia            34.32N  84.42W       370     2/11/2009 19:02      62.6       51.8        68           6        170        7      1012.2     OVC      Light Drizzle
+KABY    Albany                 US: Georgia            31.53N  84.20W        58     2/11/2009 18:53      78.1       59.0        52          18        190       10      1017.6     SCT
+KAGS    Augusta/Bush           US: Georgia            33.37N  81.97W        44     2/11/2009 18:53      77.0       53.1        43          17        210       10      1016.6     BKN
+KAHN    Athens                 US: Georgia            33.95N  83.33W       240     2/11/2009 18:51      69.1       52.0        55          17        200       10      1014.6     OVC
+KAMG    Alma                   US: Georgia            31.53N  82.50W        59     2/11/2009 18:53      77.0       55.0        47          14        180       10      1018.6     CLR
+KATL    Atlanta                US: Georgia            33.63N  84.45W       300     2/11/2009 18:52      66.9       54.0        63          15        190       10      1013.5     OVC
+KAYS    Waycross/Ware Co       US: Georgia            31.25N  82.40W        46     2/11/2009 19:00      77.0       62.6        61          15        190       10      1019.0     SCT
+KBGE    Bainbridge             US: Georgia            30.97N  84.63W        43     2/11/2009 19:00      77.0       62.6        61          18        190       10      1017.9     SCT
+KBQK    Brunswick/Glynco       US: Georgia            31.25N  81.47W         8     2/11/2009 18:59      75.2       57.2        54          10        180       10      1020.0     CLR
+KCCO    Newnan                 US: Georgia            33.32N  84.77W       300     2/11/2009 19:00      66.2       60.8        83          10        190       10      1013.2     BKN
+KCSG    Columbus               US: Georgia            32.52N  84.95W       140     2/11/2009 18:51      70.0       59.0        68          17        210       10      1014.6     OVC
+KDBN    Dublin                 US: Georgia            32.57N  82.98W        94     2/11/2009 18:59      75.2       53.6        47          16        190       10      1016.6     CLR
+KDNL    Augusta/Daniel         US: Georgia            33.47N  82.03W       130     2/11/2009 18:53      75.9       52.0        43          15        190       10      1016.9     SCT
+KDNN    Dalton                 US: Georgia            34.72N  84.87W       220     2/11/2009 19:00      60.8       59.0        94          12        150        4      1009.1     OVC      Heavy Rain
+KDQH    Douglas Muni           US: Georgia            31.48N  82.87W        78     2/11/2009 19:00      75.2       57.2        54          10        210       10      1018.3     SCT
+KFFC    Peachtree City         US: Georgia            33.35N  84.57W       260     2/11/2009 18:53      69.1       54.0        59          15        160       10      1013.5     OVC
+KFTY    Atlanta/Fulton         US: Georgia            33.78N  84.52W       260     2/11/2009 18:53      68.0       54.0        61          13        170       10      1012.9     OVC
+KGVL    Gainesville            US: Georgia            34.27N  83.83W       390     2/11/2009 18:53      64.9       52.0        63           9        170       10      1013.9     OVC
+KHQU    Mcduffie/Thomson       US: Georgia            33.53N  82.52W       150     2/11/2009 19:01      71.6       53.6        53          14        170       10      1016.9     CLR
+KJYL    Sylvania               US: Georgia            32.65N  81.60W        57     2/11/2009 19:02      73.4       55.4        53           8        200       10      1018.3     CLR
+KLGC    La Grange              US: Georgia            33.00N  85.07W       210     2/11/2009 19:00      66.2       60.8        83          10        180        8      1012.9     OVC
+KLHW    Ft Stewart/Wrigh       US: Georgia            31.87N  81.57W        14     2/11/2009 18:55      75.6       55.6        50          10        200       10      1018.6     CLR
+KLSF    Ft Benning/Colum       US: Georgia            32.32N  85.00W        71     2/11/2009 18:55      72.5       61.0        67          20        180       10      1014.9     OVC
+KLZU    Lawrenceville          US: Georgia            33.98N  83.97W       320     2/11/2009 18:50      66.2       51.8        60          10        190       10      1013.9     BKN
+KMCN    Macon                  US: Georgia            32.68N  83.65W       110     2/11/2009 18:53      73.0       54.0        51          20        210       10      1016.3     SCT
+KMGE    Dobbins Afb/Mari       US: Georgia            33.92N  84.52W       330     2/11/2009 18:55      66.2       53.6        64          16        170        7      1012.9     OVC
+KMGR    Moultrie Muni          US: Georgia            31.08N  83.80W        90     2/11/2009 19:00      71.6       57.2        61          14        190       10      1019.3     OVC
+KMLJ    Milledgeville          US: Georgia            33.15N  83.23W       120     2/11/2009 18:48      75.2       55.4        50           5        180       10      1015.2     SCT
+KOPN    Thomaston Upson        US: Georgia            32.95N  84.27W       240     2/11/2009 19:00    -999.0     -999.0      -999          18        190       10      1014.2     BKN
+KPDK    Peachtree/Dekalb       US: Georgia            33.88N  84.30W       300     2/11/2009 18:53      66.9       54.0        63          14        180       10      1013.2     OVC
+KRMG    Rome                   US: Georgia            34.35N  85.17W       190     2/11/2009 18:53      66.0       55.9        70          13        170       10      1009.1     OVC      Light Rain
+KRYY    Marietta Mccolum       US: Georgia            34.02N  84.60W       320     2/11/2009 18:47      66.2       51.8        60          10        200       10      1012.2     OVC
+KSAV    Savannah               US: Georgia            32.12N  81.20W        14     2/11/2009 18:53      75.0       57.0        54          12        210       10      1019.3     FEW
+KSSI    Brunswick              US: Georgia            31.15N  81.38W         6     2/11/2009 18:53      64.9       55.9        73          11        170       10      1020.3     CLR
+KSVN    Savannah/Hunter        US: Georgia            32.02N  81.15W        13     2/11/2009 18:55      73.4       58.6        60          11        180       10      1019.0     CLR
+KTBR    Statesboro             US: Georgia            32.48N  81.73W        57     2/11/2009 19:00      78.8       53.6        42          10        200     -999      -999.0     CLR
+KVDI    Vidalia Muni           US: Georgia            32.20N  82.37W        84     2/11/2009 19:00      77.0       53.6        44          14        200       10      1017.6     CLR
+KVLD    Valdosta Regiona       US: Georgia            30.77N  83.27W        62     2/11/2009 18:53      75.9       57.0        52          11        200       10      1019.3     BKN
+KVPC    Cartersville           US: Georgia            34.13N  84.85W       220     2/11/2009 18:53      66.9       55.9        68          17        170       10      1011.2     OVC
+KWDR    Winder/Barrow          US: Georgia            33.98N  83.67W       290     2/11/2009 19:00      68.0       53.6        60          17        190       10      1014.6     BKN
+KWRB    Warner Robins Af       US: Georgia            32.62N  83.58W        90     2/11/2009 18:55      74.3       55.9        53          15        200       10      1015.2     CLR
+KASW    Warsaw Muni            US: Indiana            41.27N  85.83W       260     2/11/2009 18:45      55.4       53.6        94           7        180       10       994.2     OVC      Light Rain
+KBAK    Columbus/Balkala       US: Indiana            39.27N  85.90W       200     2/11/2009 18:50      57.2       55.4        94          14        160        4       994.9     OVC      Light Rain, Mist
+KBMG    Bloomington            US: Indiana            39.15N  86.62W       260     2/11/2009 18:53      55.9       50.0        80          23        240        3       994.9     OVC      Rain
+KEVV    Evansville             US: Indiana            38.05N  87.52W       120     2/11/2009 18:54      59.0       50.0        72          24        220       10       996.3     BKN
+KEYE    Indianapolis           US: Indiana            39.83N  86.30W       250     2/11/2009 18:53      57.0       54.0        89           7        130        2       993.2     OVC      Rain, Mist
+KFWA    Fort Wayne             US: Indiana            40.97N  85.20W       250     2/11/2009 18:54      55.4       53.6        94          11        170     -999       995.9     OVC      Mist
+KGEZ    Shelbyville            US: Indiana            39.58N  85.80W       250     2/11/2009 18:53      57.0       55.9        96          17        170        3       994.2     OVC      Rain, Mist
+KGSH    Goshen                 US: Indiana            41.53N  85.78W       250     2/11/2009 18:53      57.0       53.1        87          19        190       10       993.6     BKN      Light Rain
+KGUS    Grissom Afb/Peru       US: Indiana            40.63N  86.15W       250     2/11/2009 18:55      55.2       55.2       100           8        140        3       993.6     OVC      Rain, Mist
+KGYY    Gary Regional          US: Indiana            41.62N  87.42W       180     2/11/2009 18:45      44.6       42.8        93          10        340      1.5       991.9     OVC      Light Rain, Mist
+KHNB    Huntingburg            US: Indiana            38.25N  86.95W       160     2/11/2009 18:55      55.4       48.2        77          16        190       10       997.0     OVC
+KHUF    Terre Haute            US: Indiana            39.45N  87.33W       180     2/11/2009 18:53      57.9       51.1        78          19        170       10       992.2     BKN
+KIND    Indianapolis           US: Indiana            39.72N  86.28W       240     2/11/2009 18:54      57.0       55.0        93          12        140        2       992.9     OVC      Rain, Mist
+KLAF    Lafayette              US: Indiana            40.42N  86.95W       180     2/11/2009 18:54      57.9       52.0        81          15        200        5       991.5     OVC      Rain
+KMIE    Muncie                 US: Indiana            40.23N  85.40W       290     2/11/2009 18:53      55.9       53.1        90           8        160        2       994.9     OVC      Light Rain, Mist
+KOKK    Kokomo                 US: Indiana            40.53N  86.07W       250     2/11/2009 18:55      57.2       51.8        82          11        150        5       993.9     OVC
+KSBN    South Bend             US: Indiana            41.70N  86.32W       240     2/11/2009 18:54      57.9       52.0        81          14        190       10       992.9     BKN      Light Rain
+KVPZ    Valparaiso             US: Indiana            41.45N  87.00W       230     2/11/2009 18:53      55.9       54.0        93           8        190        4       992.2     OVC      Rain, Mist
+K1A6    Middlesboro-Bell       US: Kentucky           36.62N  83.73W       350     2/11/2009 19:00      69.8       48.2        46          18        190       10      1004.7     BKN
+KBWG    Bowling Gree           US: Kentucky           36.97N  86.42W       170     2/11/2009 18:53      57.9       46.9        67          27        230        7      1001.0     OVC      Light Rain
+KCVG    Covington              US: Kentucky           39.05N  84.67W       270     2/11/2009 18:52      63.0       52.0        67          16        170       10       997.6     OVC
+KFFT    Frankfort              US: Kentucky           38.18N  84.90W       240     2/11/2009 18:53      66.0       52.0        61          21        170       10       997.6     OVC
+KFTK    Fort Knox/Godman       US: Kentucky           37.88N  85.97W       230     2/11/2009 18:55      59.5       55.4        86          24        220        4       998.0     OVC      Light Rain
+KGLW    Glasgow                US: Kentucky           37.03N  85.95W       220     2/11/2009 18:57      55.4       51.8        88          24        250       10       999.0     OVC
+KHOP    Hopkinsville           US: Kentucky           36.67N  87.50W       170     2/11/2009 18:55      60.4       45.9        59          28        230       10      1000.3     SCT
+KJKL    Noctor/Jackson         US: Kentucky           37.60N  83.32W       420     2/11/2009 18:53      71.1       48.9        45          17        190       10      1003.4     OVC
+KLEX    Lexington              US: Kentucky           38.03N  84.60W       300     2/11/2009 18:54      64.9       50.0        58          29        180       10       999.0     OVC
+KLOU    Louisville/Bowmn       US: Kentucky           38.22N  85.67W       160     2/11/2009 18:53      62.1       55.9        80          11        160      2.5       995.6     OVC      Rain
+KLOZ    London                 US: Kentucky           37.08N  84.07W       360     2/11/2009 18:53      70.0       50.0        49          19        190       10      1003.0     SCT
+KOWB    Owensboro/Davies       US: Kentucky           37.72N  87.17W       120     2/11/2009 18:56      61.0       50.9        69          26        220       10       997.3     SCT
+KPAH    Paducah                US: Kentucky           37.07N  88.77W       120     2/11/2009 18:53      60.1       37.0        42          35        240       10       998.6     BKN
+KSDF    Louisville             US: Kentucky           38.18N  85.73W       150     2/11/2009 18:56      62.1       55.9        80          14        180        3       995.6     OVC      Rain
+KSME    Somerset               US: Kentucky           37.05N  84.62W       280     2/11/2009 19:20      69.8       53.6        56          23        190       10       998.6     CLR
+KADW    Andrews Afb            US: Maryland           38.82N  76.87W        86     2/11/2009 18:55      69.6       50.4        50          11        260       10      1009.1     SCT
+KBWI    Balto/Wash Intl        US: Maryland           39.17N  76.68W        59     2/11/2009 18:54      68.0       46.9        47          18        230       10      1008.8     BKN
+KCBE    Cumberland Reg         US: Maryland           39.62N  78.77W       240     2/11/2009 18:47      66.2       46.4        49           5        170       10      1008.5     CLR
+KESN    Easton/Newnam          US: Maryland           38.80N  76.07W        22     2/11/2009 18:50      66.2       53.6        64          15        210       10      1011.5     CLR
+KFDK    Frederick              US: Maryland           39.42N  77.37W        92     2/11/2009 18:48      66.2       44.6        46          11        210       10      1009.5     CLR
+KFME    Fort Meade             US: Maryland           39.08N  76.77W        46     2/11/2009 18:48      69.8       46.4        43          12        220       10      1010.2     CLR
+KHGR    Hagerstown             US: Maryland           39.70N  77.73W       220     2/11/2009 18:53      66.9       45.0        45           9        230       10      1007.8     CLR
+KMTN    Baltimore/Martin       US: Maryland           39.32N  76.42W         7     2/11/2009 18:45      69.8       48.2        46          18        200       10      1009.8     SCT
+KNAK    Annapolis/Naval        US: Maryland           38.98N  76.48W         2     2/11/2009 18:54      70.0       50.0        49           9        220       10      1009.1     CLR
+KNHK    Patuxent River         US: Maryland           38.27N  76.40W        12     2/11/2009 18:52      69.1       46.0        44          11        200       10      1010.8     OVC
+KOXB    Ocean City             US: Maryland           38.32N  75.12W         3     2/11/2009 18:53      57.9       46.0        65           8        210       10      1012.9     CLR
+KSBY    Salisbury              US: Maryland           38.33N  75.50W        19     2/11/2009 18:54      64.9       50.0        58           8        230       10      1012.2     CLR
+K1A5    Macon/Franklin         US: North Carolina     35.22N  83.42W       620     2/11/2009 19:00      55.8       47.3        73           7        160       10      1012.9     OVC
+KAKH    Gastonia               US: North Carolina     35.20N  81.15W       240     2/11/2009 18:54      68.0       53.1        59           7        210       10      1014.9     OVC
+KASJ    Ahoskie/Tri Coun       US: North Carolina     36.28N  77.17W        21     2/11/2009 19:01      75.2       55.4        50           7        200       10      1015.2     CLR
+KAVL    Asheville              US: North Carolina     35.43N  82.53W       670     2/11/2009 18:54      53.1       50.0        89          10        190        8      1014.2     OVC
+KBUY    Burlington             US: North Carolina     36.05N  79.47W       180     2/11/2009 18:54      69.1       51.1        53          15        210       10      1014.2     OVC
+KCLT    Charlotte              US: North Carolina     35.22N  80.95W       220     2/11/2009 18:52      69.1       52.0        55          16        190       10      1015.6     OVC
+KCPC    Whiteville             US: North Carolina     34.27N  78.72W        29     2/11/2009 19:00      73.4       55.4        53          18        210       10      1017.9     SCT
+KCTZ    Clinton                US: North Carolina     34.98N  78.37W        45     2/11/2009 19:04      73.4       51.8        47          10        200       10      1017.6     BKN
+KDPL    Kenansville/Dupl       US: North Carolina     35.00N  77.97W        42     2/11/2009 19:00      73.4       50.0        44           6        220       10      1017.3     BKN
+KECG    Elizabeth City         US: North Carolina     36.27N  76.18W        11     2/11/2009 18:54      71.1       54.0        55          14        240       10      1015.9     BKN
+KEDE    Edenton                US: North Carolina     36.02N  76.57W         6     2/11/2009 19:00      73.4       51.8        47          14        230       10      1016.3     SCT
+KEHO    Shelby Muni            US: North Carolina     35.25N  81.60W       260     2/11/2009 19:00      68.2       54.7        62          17        180       10      1014.6     OVC
+KEQY    Monroe                 US: North Carolina     35.02N  80.62W       210     2/11/2009 18:53      70.0       53.1        55          15        210       10      1015.9     BKN
+KEWN    New Bern               US: North Carolina     35.07N  77.05W         3     2/11/2009 18:54      73.9       57.9        57          13        210       10      1017.9     SCT
+KEXX    Davidson Cty Ap        US: North Carolina     35.78N  80.30W       220     2/11/2009 19:00      68.0       51.8        56          14        200       10      1014.6     BKN
+KEYF    Elizabethtown          US: North Carolina     34.60N  78.58W        41     2/11/2009 19:00      74.5       53.6        48          13        200       10      1017.6     SCT
+KFAY    Fayetteville           US: North Carolina     34.98N  78.88W        55     2/11/2009 18:53      75.0       48.9        40          18        210       10      1016.9     CLR
+KFBG    Fort Bragg/Simmo       US: North Carolina     35.12N  78.92W        74     2/11/2009 18:55      74.7       51.4        44          15        210       10      1016.6     BKN
+KFFA    Kill Devil Hills       US: North Carolina     36.02N  75.67W         4     2/11/2009 19:00      71.1       57.0        61          10        230       10      1016.9     SCT
+KFQD    Rutherfordton          US: North Carolina     35.42N  81.93W       330     2/11/2009 18:59      64.4       51.8        64           6        200       10      1014.6     CLR
+KGEV    Jefferson              US: North Carolina     36.43N  81.42W       970     2/11/2009 19:01      53.6       48.2        82           8        160       10      1012.9     OVC
+KGSB    Goldsboro/S. J.        US: North Carolina     35.32N  77.97W        33     2/11/2009 18:55      75.0       51.6        44          18        220       10      1016.6     BKN
+KGSO    Greensboro             US: North Carolina     36.10N  79.95W       280     2/11/2009 18:54      66.9       52.0        59          15        210       10      1014.6     BKN      Light Rain
+KGWW    Goldsboro/Wayne        US: North Carolina     35.47N  77.97W        41     2/11/2009 19:00      73.8       49.1        42          17        220       10      1016.6     SCT
+KHBI    Asheboro Muni          US: North Carolina     35.65N  79.90W       210     2/11/2009 18:59      71.6       55.4        57          15        200       10      1016.3     BKN
+KHFF    Hoffman/Mackall        US: North Carolina     35.02N  79.50W       120     2/11/2009 18:55      73.9       52.7        47          19        190       10      1016.9     FEW
+KHKY    Hickory                US: North Carolina     35.75N  81.38W       350     2/11/2009 18:53      63.0       51.1        65          12        200       10      1014.6     OVC
+KHNZ    Henderson/Oxford       US: North Carolina     36.37N  78.53W       160     2/11/2009 19:00      69.1       53.8        58          15        220       10      1014.6     BKN
+KHRJ    Erwin/Harnett Co       US: North Carolina     35.38N  78.73W        60     2/11/2009 19:03      75.2       51.8        44        -999       -999       10      1016.3     SCT
+KHSE    Hatteras/Mitchel       US: North Carolina     35.23N  75.62W         3     2/11/2009 18:51      63.0       57.0        81          10        230        7      1019.3     CLR
+KIGX    Chapel Hill            US: North Carolina     35.93N  79.07W       160     2/11/2009 18:56      71.1       51.1        49           5       -999       10      1015.6     OVC
+KILM    Wilmington             US: North Carolina     34.27N  77.90W         9     2/11/2009 18:53      72.0       55.9        57          13        220       10      1019.0     BKN
+KINT    Winston Salem          US: North Carolina     36.13N  80.22W       290     2/11/2009 18:54      66.9       51.1        57          10        230       10      1014.6     OVC
+KISO    Kinston/Stalling       US: North Carolina     35.32N  77.62W        29     2/11/2009 18:59      73.4       51.8        47          16        230       15      1017.3     BKN
+KJNX    Smithfield Johns       US: North Carolina     35.53N  78.38W        50     2/11/2009 18:59      75.2       51.8        44          17        170       10      1015.6     SCT
+KJQF    Concord Reg Arpt       US: North Carolina     35.38N  80.72W       210     2/11/2009 18:55      71.6       51.8        50          15        210       10      1015.2     OVC
+KLBT    Lumberton              US: North Carolina     34.60N  79.07W        37     2/11/2009 18:54      73.0       53.1        50          10        210       10      1016.6     SCT
+KLHZ    Louisburg/Frankl       US: North Carolina     36.02N  78.33W       110     2/11/2009 19:00      73.4       48.4        41           9        210       10      1015.2     SCT
+KMEB    Maxton                 US: North Carolina     34.78N  79.37W        67     2/11/2009 18:52      73.0       52.0        48          15        200       10      1017.3     SCT
+KMQI    Manteo/Dare Co         US: North Carolina     35.92N  75.70W         4     2/11/2009 19:01      66.2       57.2        73          17        210       10      1016.9     BKN
+KMRH    Beaufort               US: North Carolina     34.73N  76.65W         3     2/11/2009 18:56      64.0       57.0        78          15        220       10      1019.3     OVC
+KMRN    Morganton/Lenoir       US: North Carolina     35.82N  81.62W       390     2/11/2009 18:59      60.8       51.8        72          11        190       10      1015.9     OVC
+KMWK    Mount Airy/Surry       US: North Carolina     36.47N  80.55W       380     2/11/2009 19:00      64.4       51.8        64           9        210       10      1014.2     OVC
+KNCA    New River Mcas         US: North Carolina     34.72N  77.45W         8     2/11/2009 18:56      73.0       59.0        61          11        220       10      1018.3     BKN
+KNKT    Cherry Point           US: North Carolina     34.88N  76.87W         9     2/11/2009 18:54      71.1       57.9        63          19        220       10      1018.6     BKN
+KOAJ    Jacksonville           US: North Carolina     34.82N  77.62W        29     2/11/2009 18:55      73.4       57.2        57          15        210       10      1018.3     BKN
+KOCW    Washington             US: North Carolina     35.57N  77.05W        12     2/11/2009 19:21      73.4       57.2        57          16        220       10      1016.6     SCT
+KONX    Currituck              US: North Carolina     36.40N  76.02W         5     2/11/2009 19:00      70.2       53.8        56          15        230       10      1015.6     BKN
+KPGV    Pitt Greenville        US: North Carolina     35.62N  77.40W         8     2/11/2009 19:01      73.4       50.0        44          17        230       10      1016.9     CLR
+KPOB    Pope Afb               US: North Carolina     35.17N  79.02W        66     2/11/2009 18:55      75.2       53.2        46          17        200       10      1016.3     CLR
+KRDU    Raleigh/Durham         US: North Carolina     35.87N  78.78W       130     2/11/2009 18:51      72.0       52.0        49          20        230       10      1015.2     BKN
+KRHP    Andrews                US: North Carolina     35.18N  83.85W       520     2/11/2009 18:59      62.6       51.8        68          11        170       10      1012.2     OVC      Light Rain
+KRUQ    Salisbury Rowan        US: North Carolina     35.65N  80.52W       240     2/11/2009 19:04      69.8       55.4        60          15        200       10      1014.9     OVC
+KRWI    Rocky Mount            US: North Carolina     35.85N  77.90W        47     2/11/2009 18:53      73.9       51.1        45          20        210       10      1015.9     FEW
+KRZZ    Roanoke Rapids         US: North Carolina     36.43N  77.72W        75     2/11/2009 18:54      73.0       51.1        46           5       -999       10      1014.9     FEW
+KSOP    Southern Pines         US: North Carolina     35.22N  79.40W       140     2/11/2009 18:55      71.6       53.6        53          20        220       10      1016.3     OVC
+KSUT    Southport              US: North Carolina     33.93N  78.08W         8     2/11/2009 19:00      63.1       55.4        76           8        210       10      1020.0     SCT
+KSVH    Statesville            US: North Carolina     35.75N  80.95W       290     2/11/2009 19:00      64.4       51.8        64          13        230       10      1014.6     OVC
+KTDF    Roxboro Person         US: North Carolina     36.28N  78.98W       190     2/11/2009 19:01      68.0       53.6        60          17        230       10      1014.9     BKN
+KTNB    Boone Watauga Ct       US: North Carolina     36.20N  81.65W       910     2/11/2009 19:01      53.6       51.8        94           5        180       10      1013.9     OVC
+KTTA    Sanford                US: North Carolina     35.58N  79.10W        75     2/11/2009 19:01      73.4       53.6        50          14        200       10      1015.6     SCT
+KUKF    Wilkesboro             US: North Carolina     36.22N  81.10W       400     2/11/2009 19:02      57.2       51.8        82           4        250       10      1014.6     OVC
+KVUJ    Albemarle Stanly       US: North Carolina     35.42N  80.15W       190     2/11/2009 19:01      69.8       57.2        64          15        200       10      1014.9     OVC
+KAKR    Akron (Fulton)         US: Ohio               41.03N  81.47W       360     2/11/2009 18:54      63.0       48.0        58          21        210       10      1001.7     CLR
+KAOH    Lima                   US: Ohio               40.70N  84.02W       300     2/11/2009 18:53      60.1       52.0        75           9        200        5       997.6     CLR      Light Rain
+KBJJ    Wooster                US: Ohio               40.87N  81.88W       340     2/11/2009 18:56      66.9       50.0        55          16        200       10      1001.4     FEW
+KBKL    Cleveland              US: Ohio               41.53N  81.67W       180     2/11/2009 18:53      62.1       48.0        60          13        190       10      1000.0     BKN
+KCAK    Akron                  US: Ohio               40.92N  81.45W       380     2/11/2009 18:51      63.0       48.0        58          23        210       10      1001.7     BKN
+KCGF    Clevlnd/Cuyahoga       US: Ohio               41.57N  81.47W       270     2/11/2009 18:49      60.8       39.2        45          15        210        7      1001.4     OVC
+KCLE    Cleveland              US: Ohio               41.42N  81.85W       230     2/11/2009 18:51      59.0       48.9        69          13        200       10      1001.4     OVC
+KCMH    Columbus               US: Ohio               40.00N  82.88W       250     2/11/2009 18:51      64.9       48.0        54          16        180       10      1000.3     OVC
+KDAY    Dayton                 US: Ohio               39.90N  84.22W       310     2/11/2009 18:56      62.1       48.9        62          19        180       10       998.0     OVC
+KDFI    Defiance               US: Ohio               41.33N  84.43W       220     2/11/2009 18:53      55.0       52.0        89          12        180        6       996.3     OVC      Light Rain, Mist
+KFDY    Findlay                US: Ohio               41.02N  83.67W       250     2/11/2009 18:53      59.0       52.0        78          14        190       10       997.6     OVC
+KFFO    Wright Paterson        US: Ohio               39.82N  84.03W       250     2/11/2009 18:55      64.4       51.8        64          18        180       10       998.0     OVC
+KHAO    Hamilton               US: Ohio               39.37N  84.52W       190     2/11/2009 18:53      64.0       48.9        58           9        180       10       997.6     OVC
+KHZY    Ashtabula              US: Ohio               41.78N  80.70W       280     2/11/2009 18:53      57.9       46.9        67          14        190       10      1002.0     BKN
+KILN    Wilmington             US: Ohio               39.43N  83.80W       320     2/11/2009 18:54      62.1       50.0        65          15        170       10       999.0     OVC
+KLCK    Rickenbacker Ang       US: Ohio               39.82N  82.92W       230     2/11/2009 18:55      67.3       49.8        54          15        170       10      1000.0     BKN
+KLHQ    Lancaster              US: Ohio               39.75N  82.67W       260     2/11/2009 18:53      66.9       48.0        51          16        190       10      1001.0     FEW
+KLPR    Lorain/Elyria          US: Ohio               41.35N  82.18W       240     2/11/2009 18:53      60.1       48.9        67          13        190       10      1000.0     BKN
+KLUK    Cincinnat/Lunken       US: Ohio               39.10N  84.42W       160     2/11/2009 18:53      66.9       52.0        59          13        180       10       998.0     OVC
+KMFD    Mansfield              US: Ohio               40.82N  82.52W       400     2/11/2009 18:52      60.1       48.9        67          19        180       10      1000.3     BKN
+KMGY    Dayton                 US: Ohio               39.60N  84.23W       290     2/11/2009 18:53      62.1       48.9        62          15        180       10       998.0     OVC
+KMNN    Marion                 US: Ohio               40.62N  83.07W       300     2/11/2009 18:53      61.0       50.0        67          21        200       10       999.7     OVC
+KOSU    Columbus/St Univ       US: Ohio               40.08N  83.08W       280     2/11/2009 18:53      64.9       48.0        54          18        190       10      1000.0     BKN
+KPHD    New Philadelphia       US: Ohio               40.47N  81.42W       270     2/11/2009 18:53      64.9       46.9        52          14        230       10      1003.0     CLR
+KTOL    Toledo                 US: Ohio               41.58N  83.80W       210     2/11/2009 18:52      55.0       52.0        89          13        190        8       997.3     SCT      Light Rain
+KVTA    Newark                 US: Ohio               40.02N  82.47W       270     2/11/2009 18:54      64.9       50.0        58          15        190       10      1001.0     FEW
+KYNG    Youngstown             US: Ohio               41.25N  80.67W       360     2/11/2009 18:51      60.1       46.0        60          11        170       10      1002.4     OVC
+KZZV    Zanesville             US: Ohio               39.95N  81.90W       270     2/11/2009 18:53      66.0       48.0        52          15        190       10      1002.7     FEW
+KAND    Anderson               US: South Carolina     34.50N  82.72W       240     2/11/2009 18:56      68.0       53.1        59          12        190       10      1014.6     BKN
+KCAE    Columbia               US: South Carolina     33.93N  81.12W        70     2/11/2009 18:56      75.0       51.1        43          16        200       10      1016.6     BKN
+KCEU    Clemson                US: South Carolina     34.67N  82.88W       270     2/11/2009 18:54      62.1       50.0        65           4        360       10      1015.2     OVC
+KCHS    Charleston             US: South Carolina     32.90N  80.03W        13     2/11/2009 18:56      73.0       54.0        51          21        210       10      1019.6     FEW
+KCRE    North Myrtle Bea       US: South Carolina     33.82N  78.72W        10     2/11/2009 18:53      64.0       55.0        73          12        210       10      1019.3     FEW
+KCUB    Columbia-Owens         US: South Carolina     33.97N  81.00W        56     2/11/2009 18:53      73.9       52.0        46          16        180       10      1017.3     OVC
+KFLO    Florence               US: South Carolina     34.18N  79.73W        44     2/11/2009 18:53      73.9       53.1        48          12        200       10      1017.6     BKN
+KGMU    Greenville             US: South Carolina     34.85N  82.35W       320     2/11/2009 18:53      66.0       52.0        61          16        210       10      1015.2     BKN
+KGRD    Greenwood              US: South Carolina     34.25N  82.15W       190     2/11/2009 18:56      71.1       53.1        53          15        190       10      1015.6     FEW
+KGSP    Greer/Spartansbg       US: South Carolina     34.90N  82.22W       290     2/11/2009 18:53      68.0       52.0        57          17        210       10      1014.6     FEW
+KGYH    Greenville             US: South Carolina     34.75N  82.38W       290     2/11/2009 18:47      69.8       53.6        56          16        200       10      1015.2     OVC
+KHXD    Hilton Head            US: South Carolina     32.22N  80.70W         6     2/11/2009 18:50      69.8       59.0        69           8        210       10      1020.7     FEW
+KNBC    Beaufort Mcas          US: South Carolina     32.47N  80.72W        12     2/11/2009 18:56      72.0       57.0        59          10        180        7      1019.6     BKN
+KOGB    Orangeburg             US: South Carolina     33.47N  80.85W        59     2/11/2009 18:53      75.0       53.1        46          13        200       10      1017.9     CLR
+KSSC    Shaw Afb/Sumter        US: South Carolina     33.97N  80.47W        74     2/11/2009 18:55      74.5       55.2        51          18        200       10      1016.9     BKN
+KUDG    Darlington Cnty        US: South Carolina     34.45N  79.88W        59     2/11/2009 18:55      73.4       53.6        50          18        190       10      1017.6     FEW
+KUZA    Rock Hill              US: South Carolina     34.98N  81.05W       200     2/11/2009 18:54      71.1       53.1        53          17        200       10      1015.6     OVC
+KBNA    Nashville              US: Tennessee          36.12N  86.68W       210     2/11/2009 18:53      57.9       37.9        47          18        230       10      1003.4     BKN      Light Rain
+KCHA    Chattanooga            US: Tennessee          35.03N  85.20W       210     2/11/2009 18:53      63.0       57.0        81          12        160        6      1007.1     OVC      Light Rain, Mist
+KCKV    Clarksville            US: Tennessee          36.62N  87.42W       170     2/11/2009 18:52      61.0       46.0        58          24        230       10      1000.7     CLR
+KCSV    Crossville             US: Tennessee          35.95N  85.08W       570     2/11/2009 18:53      59.0       53.1        81          17        180        9      1005.1     OVC      Light Rain
+KDYR    Dyersburg              US: Tennessee          36.00N  89.40W       100     2/11/2009 18:55      60.8       41.0        48          32        230       10      1004.4     FEW
+KMEM    Memphis                US: Tennessee          35.07N  89.98W        86     2/11/2009 18:53      64.0       36.0        35          26        230       10      1007.5     FEW
+KMKL    Jackson                US: Tennessee          35.60N  88.92W       130     2/11/2009 18:53      64.0       37.0        37          23        230       10      1005.1     FEW
+KMQY    Smyrna                 US: Tennessee          36.02N  86.52W       170     2/11/2009 18:56      56.8       41.9        57          26        220       10      1003.4     OVC      Light Rain
+KNQA    Millington/88d         US: Tennessee          35.35N  89.87W        86     2/11/2009 18:50      64.4       39.2        39          26        230       10      1006.4     SCT
+KOQT    Oak Ridge              US: Tennessee          36.02N  84.23W       280     2/11/2009 18:53      68.0       52.0        57          17        180       10      1006.8     OVC      Light Rain
+KTRI    Bristol                US: Tennessee          36.48N  82.40W       470     2/11/2009 18:53      70.0       46.9        44          17        190       10      1009.1     BKN
+KTYS    Knoxville              US: Tennessee          35.82N  83.98W       300     2/11/2009 18:53      69.1       50.0        51          16        180       10      1006.8     BKN
+K48I    Sutton/Braxton         US: West Virginia      38.68N  80.65W       400     2/11/2009 18:58      69.8       42.8        38           5        240       10      1005.8     CLR
+KBKW    Beckley                US: West Virginia      37.80N  81.12W       760     2/11/2009 18:51      64.0       42.1        45          15        200       10      1008.8     CLR
+KBLF    Bluefield              US: West Virginia      37.30N  81.20W       870     2/11/2009 18:52      63.0       39.9        43           8        180       10      1010.2     CLR
+KCKB    Clarksburg             US: West Virginia      39.30N  80.22W       360     2/11/2009 18:53      68.0       45.0        43          11        200       10      1005.4     CLR
+KCRW    Charleston             US: West Virginia      38.38N  81.58W       310     2/11/2009 18:54      71.1       45.0        39          19        190       10      1004.4     FEW
+KEKN    Elkins                 US: West Virginia      38.88N  79.85W       600     2/11/2009 18:51      66.9       41.0        39           6        190       10      1007.5     CLR
+KHLG    Wheeling               US: West Virginia      40.17N  80.65W       370     2/11/2009 18:53      63.0       45.0        52          20        190       10      1003.7     SCT
+KHTS    Huntington             US: West Virginia      38.37N  82.55W       250     2/11/2009 18:51      73.0       48.9        43          13        190       10      1002.7     FEW
+KI16    Pineville              US: West Virginia      37.60N  81.57W       540     2/11/2009 19:01      69.8       44.6        40           4        150       10      1007.5     CLR
+KLWB    Lewisburg/Greenb       US: West Virginia      37.87N  80.40W       700     2/11/2009 19:05      62.6       35.6        36           9        210       10      1010.2     CLR
+KMGW    Morgantown             US: West Virginia      39.65N  79.92W       380     2/11/2009 18:53      66.9       43.0        42           5        210       10      1005.8     CLR
+KMRB    Martinsburg            US: West Virginia      39.40N  77.98W       160     2/11/2009 18:53      66.0       45.0        47          10        210       10      1008.1     CLR
+KPKB    Parkersburg            US: West Virginia      39.35N  81.42W       260     2/11/2009 18:53      68.0       46.0        45          13        170       10      1004.4     SCT
+KW22    Buckhannon             US: West Virginia      39.00N  80.27W       500     2/11/2009 19:00      66.2       41.0        40          14        200       10      1006.4     CLR
+KW99    Petersburg             US: West Virginia      39.00N  79.15W       290     2/11/2009 18:55      69.8       39.2        33           9        150       10      1006.8     CLR
+KVJI    Abington               US: Virginia           36.67N  82.02W       630     2/11/2009 19:00      69.8       50.0        49          18        230       10      1009.5     SCT
+KBCB    Blacksburg/Va T.       US: Virginia           37.22N  80.42W       650     2/11/2009 19:00      62.6       51.8        68          16        190       10      1012.9     BKN
+KCHO    Charlottesville        US: Virginia           38.13N  78.45W       190     2/11/2009 18:53      69.1       45.0        42          22        210       10      1010.5     BKN
+KCPK    Chesapeake             US: Virginia           36.67N  76.32W         6     2/11/2009 19:00      73.4       51.8        47        -999       -999       10      1014.9     CLR
+KCJR    Culpeper               US: Virginia           38.52N  78.13W        95     2/11/2009 19:00      71.6       48.2        43          14        220       10      1009.8     CLR
+KDAN    Danville               US: Virginia           36.57N  79.33W       180     2/11/2009 18:53      71.1       52.0        51          13        210       10      1013.5     BKN
+KPSK    Dublin/New Riv         US: Virginia           37.12N  80.67W       640     2/11/2009 19:00      64.4       53.6        68          14        190       10      1011.9     CLR
+KEMV    Emporia                US: Virginia           36.68N  77.48W        39     2/11/2009 19:00      71.6       50.0        46          13        190       10      1014.6     BKN
+KFVX    Farmville              US: Virginia           37.35N  78.42W       130     2/11/2009 19:00      69.8       51.8        53           9        230       10      1012.2     OVC
+KDAA    Fort Belvoir/Dav       US: Virginia           38.72N  77.17W        21     2/11/2009 18:55      73.0       48.0        41          10        180       10      1009.5     CLR
+KFKN    Franklin/J B Ros       US: Virginia           36.70N  76.90W        12     2/11/2009 19:00      75.2       51.8        44          15        220       10      1014.6     SCT
+KEZF    Fredericksb/Shan       US: Virginia           38.27N  77.45W        26     2/11/2009 19:01      71.6       55.4        57          18        230       10      1009.8     CLR
+KFAF    Ft Eustis/Felker       US: Virginia           37.12N  76.62W         4     2/11/2009 18:55      68.5       51.1        54          10        220       10      1013.5     OVC
+KHLX    Hillsville/Galax       US: Virginia           36.77N  80.82W       830     2/11/2009 18:59      57.2       51.8        82          22        170       10      1013.2     CLR
+KHSP    Hot Springs/Inga       US: Virginia           37.95N  79.82W      1200     2/11/2009 18:59      55.4       41.0        58           8        200       10      1012.9     CLR
+KLFI    Langley Afb/Hamp       US: Virginia           37.07N  76.37W         3     2/11/2009 18:55      69.8       51.8        53          15        220       10      1013.9     OVC
+KJYO    Leesburg/Godfrey       US: Virginia           39.07N  77.57W       120     2/11/2009 19:00      69.8       46.4        43          11        210       10      1008.8     CLR
+KLKU    Louisa                 US: Virginia           38.02N  77.97W       150     2/11/2009 19:00      71.6       51.8        50          13        230       10      1010.8     CLR
+KLYH    Lynchburg              US: Virginia           37.32N  79.20W       300     2/11/2009 18:54      66.9       48.9        52          14        230       10      1013.2     FEW
+KHEF    Manassas Muni          US: Virginia           38.72N  77.52W        59     2/11/2009 18:55      71.6       48.2        43          13        200       10      1009.1     CLR
+KMKJ    Marion / Wythevi       US: Virginia           36.88N  81.33W       780     2/11/2009 18:59      57.2       48.2        72          13        190       10      1012.2     CLR
+KMTV    Martinsville           US: Virginia           36.62N  80.02W       290     2/11/2009 19:01      68.0       50.0        53          10        210       10      1013.9     OVC
+KMFV    Melfa/Accomack         US: Virginia           37.63N  75.77W        15     2/11/2009 19:00      66.2       53.6        64          11        210       10      1013.5     CLR
+KPHF    Newport News           US: Virginia           37.13N  76.50W        12     2/11/2009 18:54      71.1       50.0        47          14        220       10      1013.5     CLR
+KORF    Norfolk                US: Virginia           36.90N  76.20W        14     2/11/2009 18:51      71.1       50.0        47          16        240       10      1013.9     SCT
+KNGU    Norfolk Nas/Cham       US: Virginia           36.92N  76.27W         5     2/11/2009 18:59      73.0       50.0        44          13        210        6      1014.6     OVC      Haze
+KAKQ    Norfolk/Wakefld        US: Virginia           36.98N  77.00W        34     2/11/2009 18:54      73.9       48.9        41          14        190       10      1013.9     SCT
+KNTU    Oceana Nas/Souce       US: Virginia           36.82N  76.02W         7     2/11/2009 18:56      72.0       50.0        46          21        220       10      1014.2     OVC
+KOMH    Orange                 US: Virginia           38.25N  78.05W       140     2/11/2009 19:01      69.8       48.2        46          19        180       10      1010.5     CLR
+KPTB    Petersburg             US: Virginia           37.17N  77.52W        59     2/11/2009 19:00      71.6       51.8        50          13        220       10      1013.2     OVC
+KNYG    Quantico Mcaf          US: Virginia           38.50N  77.28W         4     2/11/2009 18:56      66.0       48.4        53          14        230       10      1009.5     BKN
+KRIC    Richmond               US: Virginia           37.52N  77.32W        50     2/11/2009 18:54      71.1       50.0        47          22        240       10      1012.9     OVC
+KOFP    Richmond/Hanover       US: Virginia           37.70N  77.43W        62     2/11/2009 18:54      73.0       48.0        41          24        210       10      1012.9     FEW
+KROA    Roanoke                US: Virginia           37.32N  79.97W       360     2/11/2009 18:54      66.9       46.9        49          15        200       10      1012.5     BKN
+KAVC    South Hill/Meckl       US: Virginia           36.68N  78.03W       140     2/11/2009 19:00      69.8       51.8        53          19        210       10      1016.6     OVC
+KRMN    Stafford Regnl         US: Virginia           38.40N  77.45W        65     2/11/2009 19:03      71.6       55.4        57          18        220       10      1011.2     CLR
+KSHD    Staunton/Shenand       US: Virginia           38.27N  78.90W       370     2/11/2009 19:00      69.8       48.2        46          17        220       10      1009.8     CLR
+KSFQ    Suffolk                US: Virginia           36.68N  76.60W        22     2/11/2009 19:00      73.4       50.0        44          20        230       10      1014.9     CLR
+KWAL    Wallops Island         US: Virginia           37.93N  75.47W        14     2/11/2009 18:54      53.1       46.9        80          17        210       10      1013.5     OVC
+KIAD    Wash Dc/Dulles         US: Virginia           38.93N  77.45W        93     2/11/2009 18:52      69.1       46.0        44          18        200       10      1009.1     BKN
+KFYJ    West Point             US: Virginia           37.52N  76.77W         7     2/11/2009 19:01      73.4       48.2        41          16        220       10      1013.2     CLR
+KJGG    Williamsburg           US: Virginia           37.23N  76.72W        15     2/11/2009 19:00      71.6       51.8        50          10        240       10      1013.5     CLR
+KOKV    Winchester Rgnl        US: Virginia           39.13N  78.15W       220     2/11/2009 19:01      69.8       46.4        43           8        210       10      1008.1     CLR
+KLNP    Wise/Lonesome Pi       US: Virginia           36.97N  82.52W       820     2/11/2009 18:59      59.0       42.8        55          22        190       10      1007.8     BKN
