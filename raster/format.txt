@@ -1,0 +1,15 @@
+The first four lines of fvegMOD15A2.txt are a header.  Dimension 0 is
+the y dimension and dimension 1 is the x dimension.  The remaining
+values are fractional vegetation coverage (0% < fveg < 100%) in each
+column from west to east, repeating in rows from north to south.
+
+Special fill values indicate the following land use/land cover:
+255 = MODIS surface reflectance for visible and near-infrared assigned
+	  its fill value or land cover pixel itself assigned a fill value
+254 = land cover assigned as perennial salt or inland fresh water
+253 = land cover assigned as barren, sparse vegetation (rock, tundra,
+      desert)
+252 = land cover assigned as perennial snow, ice
+251 = land cover assigned as permanent wetlands/inundated marshlands
+250 = land cover assigned as urban/built-up
+249 = land cover assigned as unclassified or not able to determine
